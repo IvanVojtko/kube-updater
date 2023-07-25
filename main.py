@@ -1,3 +1,4 @@
+import os
 import logging
 import docker
 from kubernetes import client, config
